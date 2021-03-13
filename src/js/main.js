@@ -222,7 +222,7 @@ const haushaltsbuch = {
     //     );
     // },
 
-    html_gesamtbilanz_generieren()
+        //html_gesamtbilanz_generieren()
 
     gesamtbilanz_anzeigen() {
 
