@@ -103,7 +103,7 @@ const haushaltsbuch = {
             }
         });
     },
-
+//swqhfdwifh
     // wird durch HTML-Ausgabe ersetzt
     // eintraege_ausgeben() {
     //     console.clear();
